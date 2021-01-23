@@ -23,4 +23,4 @@ The documentation for Mathscript can be found [here](https://eyx092.github.io/ma
 
 Ask questions in the 'Issues' tab.
 
-*The [script icon](https://thenounproject.com/term/code-script/691897/) in the Mathscript logo was designed by [Shmidt Sergey](https://thenounproject.com/monstercritic/).*
+<sub><sup>*The [script icon](https://thenounproject.com/term/code-script/691897/) in the Mathscript logo was designed by [Shmidt Sergey](https://thenounproject.com/monstercritic/).*</sup></sub>
