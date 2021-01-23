@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/eyx092/mathscript/blob/main/mathscript_logo.png" alt="logo" style="width: 100%; height: auto;">
+</p>
+
+
 # mathscript
 
 Mathscript is a scripting language that allows users to perform various mathematical operations.
